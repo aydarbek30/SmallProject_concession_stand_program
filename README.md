@@ -1,3 +1,3 @@
-Concession program
+Concession stand program
 -------
 small project
